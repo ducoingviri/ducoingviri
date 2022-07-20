@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ducoingviri (or just _Viridiana_)!
-- 👀 I’m interested in ... software development and database administration
+- 👀 I’m interested in ... software development
 - 💞️ I’m looking to collaborate on ... **development projects** with Spring Boot, Angular, and C# .NET; likewise, **database projects** with SQL Server, MySQL, MongoDB, and Oracle DB. 
 - 📫 How to reach me ... ducoing.viri@gmail.com
 
